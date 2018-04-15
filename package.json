@@ -1,0 +1,22 @@
+{
+  "name": "helloworldsvc",
+  "version": "1.0.0",
+  "description": "Sample NodeJs app to use as a Hello World app to measure TTFHW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizact/HelloWorldSvc.git"
+  },
+  "keywords": [
+    "TTFHW"
+  ],
+  "author": "Amir Mohtasebi <amir.mohtasebi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizact/HelloWorldSvc/issues"
+  },
+  "homepage": "https://github.com/wizact/HelloWorldSvc#readme"
+}
